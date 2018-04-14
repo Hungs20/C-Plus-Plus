@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1486996135 source:c:\users\tuoit\desktop\pm\main.cpp
+	"console.h"
+	<iostream>
+	<random>
+	<time.h>
+	<thread>
+	<windows.h>
+
+1486991839 c:\users\tuoit\desktop\pm\console.h
+	<windows.h>
+
+1486892647 source:c:\users\tuoit\desktop\pm\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1486966593 source:c:\users\tuoit\desktop\pm\resource.rc
+
+1486987392 source:c:\users\tuoit\desktop\pm\test.cpp
+	"console.h"
+	<iostream>
+	<random>
+	<time.h>
+	<thread>
+	<windows.h>
+
