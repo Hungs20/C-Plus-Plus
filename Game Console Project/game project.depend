@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1503937936 source:c:\users\hungs20\desktop\game project\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1503937932 c:\users\hungs20\desktop\game project\console.h
+	<windows.h>
+
+1503939495 source:c:\users\hungs20\desktop\game project\main.cpp
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+	"console.h"
+
+1503921829 source:c:\users\hungs20\desktop\game project\resource.rc
+
+1503937936 source:f:\code linh tinh\game project\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1503937932 f:\code linh tinh\game project\console.h
+	<windows.h>
+
+1523726493 source:f:\code linh tinh\game project\main.cpp
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+	"console.h"
+
+1503921829 source:f:\code linh tinh\game project\resource.rc
+
